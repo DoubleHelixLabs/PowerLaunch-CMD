@@ -1,5 +1,4 @@
 # PowerLaunch-CLI
-# USER MANUAL:
 Welcome to the PowerLaunch User Manual!
 PowerLaunch is an open source Python CLI that is made for new users.
 Inside this repository there will be:
